@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<ingameMissions>
+    <mission id="1" state="1" isStarted="false" timeOutLimit="120893.91248894" neededTime="0" startPointIndex="6" endPointIndex="3"/>
+    <mission id="3" state="1" isStarted="false" timeOutLimit="240891.29964447" neededTime="0" startPointIndex="1" endPointIndex="8"/>
+    <mission id="4" state="1" isStarted="false" timeOutLimit="520216.63847542" neededTime="0" startPointIndex="7" endPointIndex="7"/>
+    <mission id="11" state="1" isStarted="false" timeOutLimit="360903.3750515" neededTime="0" startDensity="0" densityThreshold="350"/>
+</ingameMissions>
+

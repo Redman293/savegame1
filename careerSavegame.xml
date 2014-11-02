@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<careerSavegame revision="2" valid="true" densityMapRevision="1" resetVehicles="false" mapId="Map01" difficulty="1" autoBackupIndex="7" fuelUsage="348.139343" sprayUsage="16105.057617" seedUsage="14405.134766" traveledDistance="308.844086" hectaresSeeded="28.345278" seedingDuration="275.443817" hectaresThreshed="25.576609" threshingDuration="427.889771" hectaresWorked="3.849759" workingDuration="0.000000" baleCount="0" revenue="0.000000" expenses="19261.042969" playTime="1106.141724" money="136795" dayTime="1180.096558" currentDay="14" timeSinceLastRain="1592.765625" longSnowBreakCounter="3" saveDate="02/11/2014" loan="0" missionFrequency="1" isPlantWitheringEnabled="false" plantGrowthRate="1" loanAnnualInterestRate="50" timeScale="1.000000" completedTransportMissions="10" completedDemandMissions="0" completedMowingMissions="0" eastState1="0" eastState2="0" foundGoldCoinCount="3" foundGoldCoins="0100000000000000000000000010000000000000000000000000000000000000000000000010000000000000000000000000" foundHelpIcons="111011111010000001" showIconsOnPDA="true">
+    <farmSiloAmounts count="12">
+        <farmSiloAmount fillType="potato" amount="17152.000000" />
+        <farmSiloAmount fillType="barley" amount="0.000000" />
+        <farmSiloAmount fillType="wheat" amount="0.000000" />
+        <farmSiloAmount fillType="rape" amount="17842.000000" />
+        <farmSiloAmount fillType="liquidManure" amount="0.000000" />
+        <farmSiloAmount fillType="maize" amount="17422.000000" />
+        <farmSiloAmount fillType="manure" amount="0.000000" />
+        <farmSiloAmount fillType="woodChips" amount="0.000000" />
+        <farmSiloAmount fillType="grass" amount="0.000000" />
+        <farmSiloAmount fillType="sugarBeet" amount="17072.000000" />
+        <farmSiloAmount fillType="chaff" amount="0.000000" />
+        <farmSiloAmount fillType="dryGrass" amount="0.000000" />
+    </farmSiloAmounts>
+    <fillTypePrices count="27">
+        <fillTypePrice fillType="barley_windrow" price="0.040000" previousHourPrice="0.039000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="woodChips" price="0.403000" previousHourPrice="0.398000" totalAmount="502065.062500" />
+        <fillTypePrice fillType="rape" price="0.576000" previousHourPrice="0.575000" totalAmount="508517.468750" />
+        <fillTypePrice fillType="forage" price="0.806000" previousHourPrice="0.802000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="milk" price="0.397000" previousHourPrice="0.402000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="wheat_windrow" price="0.040000" previousHourPrice="0.039000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="maize" price="0.271000" previousHourPrice="0.272000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="grass" price="0.169000" previousHourPrice="0.170000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="fuel" price="0.000000" previousHourPrice="0.000000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="water" price="0.000000" previousHourPrice="0.000000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="liquidManure" price="0.010000" previousHourPrice="0.009000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="potato" price="0.212000" previousHourPrice="0.211000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="barley" price="0.250000" previousHourPrice="0.248000" totalAmount="680835.062500" />
+        <fillTypePrice fillType="wheat" price="0.307000" previousHourPrice="0.307000" totalAmount="623542.250000" />
+        <fillTypePrice fillType="seeds" price="0.596000" previousHourPrice="0.602000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="grass_windrow" price="0.050000" previousHourPrice="0.050000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="manure" price="0.009000" previousHourPrice="0.009000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="dryGrass_windrow" price="0.054000" previousHourPrice="0.054000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="fertilizer" price="0.298000" previousHourPrice="0.301000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="treeSaplings" price="199.511993" previousHourPrice="198.351013" totalAmount="500000.000000" />
+        <fillTypePrice fillType="egg" price="5.667000" previousHourPrice="5.647000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="forage_mixing" price="0.496000" previousHourPrice="0.496000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="silage" price="0.792000" previousHourPrice="0.805000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="wool" price="1.198000" previousHourPrice="1.195000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="dryGrass" price="0.190000" previousHourPrice="0.189000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="chaff" price="0.209000" previousHourPrice="0.210000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="sugarBeet" price="0.230000" previousHourPrice="0.231000" totalAmount="500000.000000" />
+    </fillTypePrices>
+    <rains numRains="10">
+        <rain isValid="true" rainTypeId="fog" duration="150.816711" startDay="16" startDayTime="334.032043" />
+        <rain isValid="true" rainTypeId="fog" duration="127.051842" startDay="17" startDayTime="338.217072" />
+        <rain isValid="true" rainTypeId="rain" duration="391.518768" startDay="19" startDayTime="565.503540" />
+        <rain isValid="true" rainTypeId="fog" duration="134.568970" startDay="21" startDayTime="337.822266" />
+        <rain isValid="true" rainTypeId="cloudy" duration="296.528625" startDay="24" startDayTime="366.363708" />
+        <rain isValid="true" rainTypeId="fog" duration="156.410339" startDay="25" startDayTime="332.715912" />
+        <rain isValid="true" rainTypeId="rain" duration="321.729248" startDay="27" startDayTime="415.633087" />
+        <rain isValid="true" rainTypeId="cloudy" duration="419.231354" startDay="29" startDayTime="594.688416" />
+        <rain isValid="true" rainTypeId="fog" duration="125.050430" startDay="32" startDayTime="331.488983" />
+        <rain isValid="true" rainTypeId="hail" duration="386.237091" startDay="35" startDayTime="493.632874" />
+        <rain isValid="true" rainTypeId="hail" duration="386.237091" startDay="35" startDayTime="493.632874" />
+        <rain isValid="true" rainTypeId="rain" duration="321.729248" startDay="27" startDayTime="415.633118" />
+        <rain isValid="true" rainTypeId="rain" duration="321.729248" startDay="27" startDayTime="415.633118" />
+    </rains>
+    <currentRain isValid="false" />
+    <lastRain isValid="true" rainTypeId="hail" duration="355.734192" startDay="13" startDayTime="691.619446" />
+    <mapsSplitShapeFileIds count="1">
+        <id id="0" />
+    </mapsSplitShapeFileIds>
+</careerSavegame>

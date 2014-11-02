@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<careerVehicles>
+    <vehicle id="1" filename="data/vehicles/steerable/huerlimann/huerlimannH488.xml" isAbsolute="true" tourId="tourTractor1" fuelFillLevel="78.409930415062"  attacherJointComboDir="-1" dirtAmount="0.42827173133469">
+       <component1 position="595.08209228516 179.0908203125 347.79727172852" rotation="0.050324279814959 0.072842694818974 -0.012030931189656" />
+    </vehicle>
+    <vehicle id="2" filename="data/vehicles/tools/koeckerling/koeckerlingTrio300M.xml" isAbsolute="true" tourId="tourCultivator" foldAnimTime="0" dirtAmount="0">
+       <component1 position="192.36769104004 152.11241149902 143.40734863281" rotation="-3.05810546875 -0.05045773088932 3.0756857395172" />
+    </vehicle>
+    <vehicle id="3" filename="data/vehicles/tools/suer/suerSB1000.xml" isAbsolute="true" dirtAmount="1">
+       <component1 position="-487.73297119141 112.12875366211 -44.188636779785" rotation="-1.65056848526 -1.4946318864822 1.5012059211731" />
+    </vehicle>
+    <vehicle id="4" filename="data/vehicles/steerable/deutz/deutzAgroStar661.xml" isAbsolute="true" tourId="tourTractor3" fuelFillLevel="182.65594942487"  attacherJointComboDir="-1" dirtAmount="0.12517414137931">
+       <component1 position="-622.05078125 114.19578552246 61.666275024414" rotation="-3.1033802032471 -0.51079428195953 -3.1275997161865" />
+    </vehicle>
+    <vehicle id="5" filename="data/vehicles/tools/poettinger/poettingerVitasem302A.xml" isAbsolute="true" tourId="tourSowingMachine" fillLevel="406.4098815918" fillType="seeds" selectedSeedFruitType="barley" foldAnimTime="0" dirtAmount="0">
+       <component1 position="195.79225158691 152.08711242676 142.97601318359" rotation="-3.0879342556 -0.06641674041748 -3.1284053325653" />
+    </vehicle>
+    <vehicle id="6" filename="data/vehicles/tools/suer/suerSB700.xml" isAbsolute="true" dirtAmount="0">
+       <component1 position="182.4344329834 151.99993896484 128.02253723145" rotation="-3.1365883350372 -1.5697605609894 3.1366031169891" />
+    </vehicle>
+    <vehicle id="7" filename="data/vehicles/steerable/huerlimann/huerlimannH488.xml" isAbsolute="true" fuelFillLevel="97.002815415373"  attacherJointComboDir="-1" dirtAmount="0.006012871742328">
+       <component1 position="195.95803833008 152.0418548584 113.06195831299" rotation="-0.0068513695150614 -1.5707963705063 0" />
+    </vehicle>
+    <vehicle id="8" filename="data/vehicles/tools/kuhn/kuhnVariMaster153.xml" isAbsolute="true" foldAnimTime="0" ploughRotationMax="false" ploughTurnAnimTime="0" dirtAmount="0">
+       <component1 position="185.05345153809 152.01968383789 141.30718994141" rotation="3.1372807025909 0.050218988209963 3.1415836811066" />
+    </vehicle>
+    <vehicle id="9" filename="data/vehicles/tools/suer/suerSB700.xml" isAbsolute="true" dirtAmount="0">
+       <component1 position="182.62200927734 151.99995422363 126.66466522217" rotation="-3.1415002346039 -1.3884887695313 3.1415278911591" />
+    </vehicle>
+    <vehicle id="10" filename="data/vehicles/frontLoaders/stoll/stollToolPalletFork.xml" isAbsolute="true" dirtAmount="0.0030724682322531">
+       <component1 position="191.31452941895 153.25700378418 115.46194458008" rotation="2.6441810131073 -1.5601040124893 -3.1308999061584" />
+    </vehicle>
+    <vehicle id="11" filename="data/vehicles/steerable/newHolland/newHollandT475.xml" isAbsolute="true" fuelFillLevel="75.052873703288"  attacherJointComboDir="-1" dirtAmount="0.0055304427249233">
+       <component1 position="195.27758789063 152.06123352051 115.50416564941" rotation="3.1240592002869 -1.5601150989532 -3.1308801174164" />
+    </vehicle>
+    <vehicle id="12" filename="data/vehicles/frontLoaders/stoll/stollFrontLoaderFZNH.xml" isAbsolute="true" color="0 0.117 0.402 1" dirtAmount="0.0030724682322531">
+       <component1 position="192.90197753906 152.35006713867 115.47881317139" rotation="2.6389298439026 -1.5601096153259 -3.1310751438141" />
+       <movingTool1 rotation="0.4876657128334"/>
+       <movingTool2 translation="1.3879998922348"/>
+       <movingTool3 rotation="0.4876657128334"/>
+       <movingTool4 translation="1.3879998922348"/>
+    </vehicle>
+    <vehicle id="13" filename="data/vehicles/tools/suer/suerSB1000.xml" isAbsolute="true" dirtAmount="0.0055304427249233">
+       <component1 position="197.44248962402 152.47055053711 115.52169036865" rotation="-0.046452425420284 1.5601096153259 0.010724345222116" />
+    </vehicle>
+    <vehicle id="14" filename="data/vehicles/steerable/deutz/deutzAgroStar661.xml" isAbsolute="true" tourId="tourTractor2" fuelFillLevel="235.79412561396"  attacherJointComboDir="-1" dirtAmount="1">
+       <component1 position="-484.68157958984 111.29608154297 -44.147129058838" rotation="-1.5573741197586 -1.4946318864822 1.5011160373688" />
+    </vehicle>
+    <vehicle id="15" filename="data/vehicles/tools/vaederstad/vaederstadRapidA600S.xml" isAbsolute="true"  lowerAnimTime="0.48194566345215" fillLevel="3213.7092285156" fillType="seeds" selectedSeedFruitType="wheat" foldAnimTime="0" dirtAmount="1">
+       <component1 position="-478.61669921875 110.73951721191 -44.137500762939" rotation="-1.6041140556335 -1.5020697116852 1.5249056816101" />
+       <component2 position="-481.86001586914 111.66004943848 -44.189990997314" rotation="-1.5789797306061 -1.4946806430817 1.498804807663" />
+    </vehicle>
+    <vehicle id="16" filename="data/vehicles/tools/amazone/amazoneUF1801.xml" isAbsolute="true" fillLevel="1291.2395019531" fillType="fertilizer" foldAnimTime="0" dirtAmount="0.11467552339527">
+       <component1 position="594.86297607422 179.36059570313 344.75164794922" rotation="0.050342578440905 0.072851829230785 -0.012035399675369" />
+       <movingTool1 translation="0.72021174430847"/>
+    </vehicle>
+    <vehicle id="17" filename="data/vehicles/tools/suer/suerSB1600.xml" isAbsolute="true" dirtAmount="0.43280207176781">
+       <component1 position="595.28338623047 179.17210388184 350.5048828125" rotation="0.050329335033894 0.072839573025703 -0.012030944228172" />
+    </vehicle>
+    <vehicle id="18" filename="data/vehicles/frontLoaders/stoll/stollToolShovel.xml" isAbsolute="true" fillLevel="0" fillType="unknown" dirtAmount="0">
+       <component1 position="187.91963195801 152.00024414063 145.02388000488" rotation="0.00086436339188367 0.066037565469742 8.9710127213039e-005" />
+    </vehicle>
+    <vehicle id="19" filename="data/vehicles/steerable/cars/piQup.xml" isAbsolute="true" color="0.8228 0.8388 0.7304 1" fuelFillLevel="128.33803559852" cruiseControl="83" operatingTime="852.18375569344" dirtAmount="0.0045128341036318">
+       <component1 position="159.87718200684 149.74658203125 -89.391815185547" rotation="0.13118973374367 -1.1679490804672 -0.065534621477127" />
+       <movingTool1 rotation="0"/>
+    </vehicle>
+    <vehicle id="20" filename="data/vehicles/tools/suer/suerSB1600.xml" isAbsolute="true" dirtAmount="0.11707306348165">
+       <component1 position="-623.61041259766 114.32666015625 58.891178131104" rotation="-3.10338139534 -0.51051968336105 -3.1275959014893" />
+    </vehicle>
+    <vehicle id="21" filename="data/vehicles/steerable/newHolland/newHollandT8435.xml" isAbsolute="true" fuelFillLevel="686.83349125159"  attacherJointComboDir="-1" dirtAmount="0">
+       <component1 position="127.34944915771 148.01034545898 68.678062438965" rotation="-0.014835398644209 -1.3686110973358 0.00066431122832" />
+    </vehicle>
+    <vehicle id="22" filename="data/vehicles/trailers/fliegl/flieglDolly.xml" isAbsolute="true" dirtAmount="0">
+       <component1 position="132.6513671875 148.06500244141 67.475387573242" rotation="-0.0035026820842177 -1.3260779380798 -0.00062631961191073" />
+    </vehicle>
+    <vehicle id="23" filename="data/vehicles/trailers/fliegl/flieglASS2101.xml" isAbsolute="true" fillLevel="0" fillType="unknown" dirtAmount="0.46385108612082">
+       <component1 position="137.62223815918 148.15386962891 65.836044311523" rotation="-0.01687241718173 -1.2380539178848 0.00066150940256193" />
+       <movingTool3 rotation="-1.4717873334885"/>
+    </vehicle>
+    <vehicle id="24" filename="data/vehicles/steerable/caseIH/caseIH9230Crawler.xml" isAbsolute="true" foldAnimTime="0" fuelFillLevel="950.95490732734" cruiseControl="22" operatingTime="2842.7107398186" fillLevel="0" fillType="unknown" isStrawEnabled="false" workedHectars="9.1383228302002" dirtAmount="0.24072539288288">
+       <component1 position="175.66064453125 149.50112915039 -73.819244384766" rotation="-3.1359660625458 0.020410660654306 -3.1390819549561" />
+       <movingTool1 rotation="0.13547578454018"/>
+    </vehicle>
+    <vehicle id="25" filename="data/vehicles/cutters/caseIH/caseIH3162Cutter.xml" isAbsolute="true" color="0.5647 0.0086 0.0086 1" foldAnimTime="1" dirtAmount="0.59183752731694">
+       <component1 position="175.77745056152 150.00196838379 -79.25626373291" rotation="2.7637655735016 0.020403916016221 -3.1390581130981" />
+       <component2 position="177.62347412109 151.54469299316 -78.774772644043" rotation="1.6243896484375 -1.180686712265 -1.6179567575455" />
+       <component3 position="171.30723571777 150.82220458984 -78.250610351563" rotation="-2.5673882961273 -0.071555577218533 0.080910928547382" />
+       <component4 position="171.34156799316 151.67004394531 -79.61937713623" rotation="-1.7192611694336 1.0826491117477 1.5167657136917" />
+       <movingTool1 translation="1.3316498994827"/>
+       <movingTool2 rotation="-0.093708477914333"/>
+    </vehicle>
+    <vehicle id="26" filename="data/vehicles/tools/vaederstad/vaederstadRapidA600S.xml" isAbsolute="true"  lowerAnimTime="0" fillLevel="4050" fillType="seeds" selectedSeedFruitType="wheat" foldAnimTime="0" dirtAmount="0.52894176205298">
+       <component1 position="-617.76666259766 114.47792816162 61.828994750977" rotation="-0.083792693912983 -1.0402890443802 0.074178092181683" />
+       <component2 position="-620.75329589844 115.21020507813 64.003875732422" rotation="3.1305930614471 -0.55065906047821 -3.1344866752625" />
+    </vehicle>
+    <attachment id0="1" id1="17" inputJointDescIndex="1" jointIndex="2" moveDown="true"/>
+    <attachment id0="1" id1="16" inputJointDescIndex="1" jointIndex="1" moveDown="true"/>
+    <attachment id0="4" id1="20" inputJointDescIndex="1" jointIndex="2" moveDown="true"/>
+    <attachment id0="4" id1="26" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    <attachment id0="11" id1="13" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    <attachment id0="11" id1="12" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
+    <attachment id0="12" id1="10" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    <attachment id0="14" id1="3" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
+    <attachment id0="14" id1="15" inputJointDescIndex="1" jointIndex="1" moveDown="true"/>
+    <attachment id0="21" id1="22" inputJointDescIndex="1" jointIndex="3" moveDown="false"/>
+    <attachment id0="22" id1="23" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    <attachment id0="24" id1="25" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    <item className="HighPressureWasher" filename="data/placeables/highPressureWasher/kaercher/kaercherHDS918-4M.xml" position="133.56195068359 148.01461791992 70.835220336914" rotation="-3.0865607261658 1.2467452287674 -3.0894210338593"/>
+    <onCreateLoadedObject id="1" isTrainStarted="nil" currentTime="0.15464267796964" direction="1">
+       <vehicle1 fillLevels="" />
+       <vehicle2 fillLevels="" />
+       <vehicle3 fillLevels="0" />
+       <wood fillLevel="0" />
+    </onCreateLoadedObject>
+    <onCreateLoadedObject id="2" isTrainStarted="nil" currentTime="0.10972885647158" direction="1">
+       <vehicle1 fillLevels="" />
+       <vehicle2 fillLevels="0 0 0 0" />
+       <vehicle3 fillLevels="0" />
+       <wood fillLevel="0" />
+    </onCreateLoadedObject>
+    <onCreateLoadedObject id="3" state="0" compactedFillLevel="0" fermentingTime="0" silagePlaneMoveAlpha="0" silagePlaneMoveAlphaMax="1">
+       <movingPlane1 fillLevel="0" />
+       <movingPlane2 fillLevel="0" />
+       <movingPlane3 fillLevel="0" />
+       <movingPlane4 fillLevel="0" />
+       <movingPlane5 fillLevel="0" />
+    </onCreateLoadedObject>
+    <onCreateLoadedObject id="4" liquidManureSiloFillLevel="0" bunkerFillLevel="0"/>
+    <onCreateLoadedObject id="5" state="0" compactedFillLevel="0" fermentingTime="0" silagePlaneMoveAlpha="0" silagePlaneMoveAlphaMax="1">
+       <movingPlane1 fillLevel="0" />
+       <movingPlane2 fillLevel="0" />
+       <movingPlane3 fillLevel="0" />
+       <movingPlane4 fillLevel="0" />
+       <movingPlane5 fillLevel="0" />
+       <movingPlane6 fillLevel="0" />
+       <movingPlane7 fillLevel="0" />
+       <movingPlane8 fillLevel="0" />
+       <movingPlane9 fillLevel="0" />
+       <movingPlane10 fillLevel="0" />
+       <movingPlane11 fillLevel="0" />
+       <movingPlane12 fillLevel="0" />
+       <movingPlane13 fillLevel="0" />
+       <movingPlane14 fillLevel="0" />
+       <movingPlane15 fillLevel="0" />
+    </onCreateLoadedObject>
+    <onCreateLoadedObject id="6" state="0" compactedFillLevel="0" fermentingTime="0" silagePlaneMoveAlpha="0" silagePlaneMoveAlphaMax="1">
+       <movingPlane1 fillLevel="0" />
+       <movingPlane2 fillLevel="0" />
+       <movingPlane3 fillLevel="0" />
+       <movingPlane4 fillLevel="0" />
+       <movingPlane5 fillLevel="0" />
+       <movingPlane6 fillLevel="0" />
+       <movingPlane7 fillLevel="0" />
+       <movingPlane8 fillLevel="0" />
+       <movingPlane9 fillLevel="0" />
+       <movingPlane10 fillLevel="0" />
+       <movingPlane11 fillLevel="0" />
+       <movingPlane12 fillLevel="0" />
+       <movingPlane13 fillLevel="0" />
+       <movingPlane14 fillLevel="0" />
+       <movingPlane15 fillLevel="0" />
+    </onCreateLoadedObject>
+    <onCreateLoadedObject id="7" state="0" compactedFillLevel="0" fermentingTime="0" silagePlaneMoveAlpha="0" silagePlaneMoveAlphaMax="1">
+       <movingPlane1 fillLevel="0" />
+       <movingPlane2 fillLevel="0" />
+       <movingPlane3 fillLevel="0" />
+       <movingPlane4 fillLevel="0" />
+       <movingPlane5 fillLevel="0" />
+       <movingPlane6 fillLevel="0" />
+       <movingPlane7 fillLevel="0" />
+       <movingPlane8 fillLevel="0" />
+       <movingPlane9 fillLevel="0" />
+       <movingPlane10 fillLevel="0" />
+       <movingPlane11 fillLevel="0" />
+       <movingPlane12 fillLevel="0" />
+       <movingPlane13 fillLevel="0" />
+       <movingPlane14 fillLevel="0" />
+       <movingPlane15 fillLevel="0" />
+    </onCreateLoadedObject>
+    <onCreateLoadedObject id="8" state="0" compactedFillLevel="0" fermentingTime="0" silagePlaneMoveAlpha="0" silagePlaneMoveAlphaMax="1">
+       <movingPlane1 fillLevel="0" />
+       <movingPlane2 fillLevel="0" />
+       <movingPlane3 fillLevel="0" />
+       <movingPlane4 fillLevel="0" />
+       <movingPlane5 fillLevel="0" />
+       <movingPlane6 fillLevel="0" />
+       <movingPlane7 fillLevel="0" />
+       <movingPlane8 fillLevel="0" />
+       <movingPlane9 fillLevel="0" />
+       <movingPlane10 fillLevel="0" />
+       <movingPlane11 fillLevel="0" />
+       <movingPlane12 fillLevel="0" />
+       <movingPlane13 fillLevel="0" />
+       <movingPlane14 fillLevel="0" />
+       <movingPlane15 fillLevel="0" />
+    </onCreateLoadedObject>
+    <onCreateLoadedObject id="9"  numAnimals0="0" numAnimals1="0" liquidManureFillLevel="0" manureHeapFillLevel="0">
+       <tipTriggerFillLevel fillType="silage" tipTriggerIndex="1" fillLevel="0" />
+       <tipTriggerFillLevel fillType="silage" tipTriggerIndex="2" fillLevel="0" />
+       <tipTriggerFillLevel fillType="silage" tipTriggerIndex="3" fillLevel="0" />
+       <tipTriggerFillLevel fillType="forage" tipTriggerIndex="1" fillLevel="0" />
+       <tipTriggerFillLevel fillType="forage" tipTriggerIndex="2" fillLevel="0" />
+       <tipTriggerFillLevel fillType="forage" tipTriggerIndex="3" fillLevel="0" />
+       <tipTriggerFillLevel fillType="wheat_windrow" tipTriggerIndex="4" fillLevel="0" />
+       <tipTriggerFillLevel fillType="wheat_windrow" tipTriggerIndex="5" fillLevel="0" />
+       <tipTriggerFillLevel fillType="grass_windrow" tipTriggerIndex="1" fillLevel="0" />
+       <tipTriggerFillLevel fillType="grass_windrow" tipTriggerIndex="2" fillLevel="0" />
+       <tipTriggerFillLevel fillType="grass_windrow" tipTriggerIndex="3" fillLevel="0" />
+       <fillLevelMilk fillLevel="0" />
+    </onCreateLoadedObject>
+    <onCreateLoadedObject id="10"  numAnimals0="0" numAnimals1="0">
+       <tipTriggerFillLevel fillType="forage" tipTriggerIndex="1" fillLevel="0" />
+    </onCreateLoadedObject>
+    <onCreateLoadedObject id="11"  numAnimals0="0" numAnimals1="1" numActivePickupObjects="0"/>
+</careerVehicles>
